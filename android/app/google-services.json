@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114976838811",
+    "project_id": "phase2-c7a65",
+    "storage_bucket": "phase2-c7a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114976838811:android:2065459db31e6f41ae623e",
+        "android_client_info": {
+          "package_name": "com.example.phase_2_implementation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbekLWZu_SZpK4O7cS4wiZdQL0dpb_13Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
